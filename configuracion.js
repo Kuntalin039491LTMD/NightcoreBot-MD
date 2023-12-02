@@ -24,7 +24,7 @@ global.owner = [
 
  ["584166718372", "ɴɪɢʜᴛᴄᴏʀᴇ-ʙᴏᴛ ᴄʀᴇᴀᴅᴏʀ", true]]
 
-
+ gobal.prems=["59164832948"]
  global.suittag = ["593959425714"];
  global.mods = ["584166718372"];
  global.prems = ["595986674310"];
