@@ -21,6 +21,8 @@ import uploadFile from "./lib/uploadFile.js";
 import uploadImage from "./lib/uploadImage.js";
 //Añade los números que deseas que sean Owners
 global.owner = [
+ ["59164832948","colaborador", true]] 
+
 
  ["584166718372", "ɴɪɢʜᴛᴄᴏʀᴇ-ʙᴏᴛ ᴄʀᴇᴀᴅᴏʀ", true]]
 
