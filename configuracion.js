@@ -20,7 +20,8 @@ import { en, es, pt } from "./lib/idiomas/total-idiomas.js";
 import uploadFile from "./lib/uploadFile.js";
 import uploadImage from "./lib/uploadImage.js";
 //Añade los números que deseas que sean Owners
-global.owner = [
+global.owner = ["59164832948","NIGHTCORE-BOT CREADOR", true]] 
+
 
  ["584166718372", "ɴɪɢʜᴛᴄᴏʀᴇ-ʙᴏᴛ ᴄʀᴇᴀᴅᴏʀ", true]]
 
